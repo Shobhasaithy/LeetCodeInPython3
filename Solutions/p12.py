@@ -10,3 +10,4 @@ class Solution:
 '''
 Simple self explanatory code
 '''
+hello leetcode
