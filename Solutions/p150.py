@@ -20,4 +20,7 @@ class Solution:
 
 '''
 simple stack application 
+append is used add the files
 '''
+
+
