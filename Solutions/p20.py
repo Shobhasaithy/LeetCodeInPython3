@@ -26,4 +26,8 @@ class Solution:
 
   '''
   Simple balance parenthesis code
+  Simple balanced parentheses checker:
+- Uses a stack to track opening brackets.
+- Matches each closing bracket with the top of the stack.
+- Ensures proper nesting and pairing.
   '''
